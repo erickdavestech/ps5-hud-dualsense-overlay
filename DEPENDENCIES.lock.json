@@ -1,0 +1,23 @@
+{
+  "project": "ps5-hud-overlay",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "ps5_payload_sdk": {
+    "repository": "https://github.com/ps5-payload-dev/sdk",
+    "version": "v0.43",
+    "commit": "d9c9519",
+    "purpose": "PS5 payload toolchain and system libraries"
+  },
+  "etahen": {
+    "repository": "https://github.com/etaHEN/etaHEN",
+    "version": "2.4B",
+    "commit": "d47f99bd37f349ae59b3c4b66e09e93ba69f56cd",
+    "purpose": "Pinned GPL source baseline used by the process/module sampling adapter. Runtime hardware test used etaHEN 2.6."
+  },
+  "ps5_payload_shsrv": {
+    "repository": "https://github.com/ps5-payload-dev/shsrv",
+    "version": "v0.20",
+    "commit": "6f320637d56d344a0e7797753099e33238bbf146",
+    "purpose": "Pinned GPL ptrace and ELF-loader primitives used by the source-built ShellUI bootstrap."
+  }
+}
