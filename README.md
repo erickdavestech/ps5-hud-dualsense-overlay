@@ -1,6 +1,8 @@
 # ps5-hud-overlay
 
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/erickdavestech/ps5-hud-overlay)](https://github.com/erickdavestech/ps5-hud-overlay/releases/latest)
+[![CI](https://github.com/erickdavestech/ps5-hud-overlay/actions/workflows/ci.yml/badge.svg)](https://github.com/erickdavestech/ps5-hud-overlay/actions/workflows/ci.yml)
 
 On-screen **performance HUD and DualSense controller overlay** for a PlayStation 5 running homebrew.
 A single payload runs entirely on the console. While a game runs, it draws two overlays at the same
@@ -13,12 +15,20 @@ time:
 > Educational project about PS5 homebrew, process injection and the system UI (`SceShellUI`,
 > PUI on Mono). Use it only on hardware you own and read the [legal notice](#legal-notice).
 
+**[Download the latest release](https://github.com/erickdavestech/ps5-hud-overlay/releases/latest)**
+
 ## Preview
 
 ![Performance panel layout over a dark and a bright background](docs/images/hud-preview.png)
 
 <sub>Layout preview rendered on a PC from the panel artwork, with illustrative values. On the console
 the text uses the system font.</sub>
+
+## Download
+
+Get `ps5-hud-overlay-<version>.elf` from the
+[latest release](https://github.com/erickdavestech/ps5-hud-overlay/releases/latest). The release also
+includes `SHA256SUMS.txt` to verify the file.
 
 ## Features
 

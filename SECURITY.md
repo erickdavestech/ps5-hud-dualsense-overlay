@@ -9,10 +9,8 @@
 
 ## Reporting a problem
 
-Do not report security problems in an issue, discussion or pull request. Report them privately
-through GitHub: open the repository's **Security** tab and choose **Report a vulnerability**. If that
-option is not available to you, contact the maintainer privately through the GitHub profile
-[@erickdavestech](https://github.com/erickdavestech).
+Do not open a public issue, discussion or pull request for security problems. Report them privately
+through GitHub: open the repository's **Security** tab and choose **Report a vulnerability**.
 
 Please include:
 
@@ -53,5 +51,6 @@ includes `SHA256SUMS.txt`; check the file before loading it:
 sha256sum -c SHA256SUMS.txt
 ```
 
-Commits on `main` are signed and show as **Verified** on GitHub, and every release can be rebuilt from
-source to obtain the same binary (see [BUILDING.md](BUILDING.md)).
+Release tags (`v*`) are protected against deletion and modification, commits on `main` are signed and
+show as **Verified** on GitHub, and every release can be rebuilt from source to obtain the same binary
+(see [BUILDING.md](BUILDING.md)).
