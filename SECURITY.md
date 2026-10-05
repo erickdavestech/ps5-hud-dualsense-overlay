@@ -44,7 +44,7 @@ report those to their respective projects. This project does not accept or publi
 ## Verifying downloads
 
 Download the overlay only from this repository's
-[Releases page](https://github.com/erickdavestech/ps5-hud-overlay/releases). Each release
+[Releases page](https://github.com/erickdavestech/ps5-hud-dualsense-overlay/releases). Each release
 includes `SHA256SUMS.txt`; check the file before loading it:
 
 ```bash

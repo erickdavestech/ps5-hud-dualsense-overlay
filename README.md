@@ -1,8 +1,8 @@
-# ps5-hud-overlay
+# PS5 HUD and DualSense Controller Overlay
 
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](LICENSE)
-[![Latest release](https://img.shields.io/github/v/release/erickdavestech/ps5-hud-overlay)](https://github.com/erickdavestech/ps5-hud-overlay/releases/latest)
-[![CI](https://github.com/erickdavestech/ps5-hud-overlay/actions/workflows/ci.yml/badge.svg)](https://github.com/erickdavestech/ps5-hud-overlay/actions/workflows/ci.yml)
+[![Latest release](https://img.shields.io/github/v/release/erickdavestech/ps5-hud-dualsense-overlay)](https://github.com/erickdavestech/ps5-hud-dualsense-overlay/releases/latest)
+[![CI](https://github.com/erickdavestech/ps5-hud-dualsense-overlay/actions/workflows/ci.yml/badge.svg)](https://github.com/erickdavestech/ps5-hud-dualsense-overlay/actions/workflows/ci.yml)
 
 On-screen **performance HUD and DualSense controller overlay** for a PlayStation 5 running homebrew.
 A single payload runs entirely on the console. While a game runs, it draws two overlays at the same
@@ -15,7 +15,7 @@ time:
 > Educational project about PS5 homebrew, process injection and the system UI (`SceShellUI`,
 > PUI on Mono). Use it only on hardware you own and read the [legal notice](#legal-notice).
 
-**[Download the latest release](https://github.com/erickdavestech/ps5-hud-overlay/releases/latest)**
+**[Download the latest release](https://github.com/erickdavestech/ps5-hud-dualsense-overlay/releases/latest)**
 
 ## Preview
 
@@ -26,8 +26,8 @@ the text uses the system font.</sub>
 
 ## Download
 
-Get `ps5-hud-overlay-<version>.elf` from the
-[latest release](https://github.com/erickdavestech/ps5-hud-overlay/releases/latest). The release also
+Get `ps5-hud-dualsense-overlay-<version>.elf` from the
+[latest release](https://github.com/erickdavestech/ps5-hud-dualsense-overlay/releases/latest). The release also
 includes `SHA256SUMS.txt` to verify the file.
 
 ## Features
@@ -91,7 +91,7 @@ that metric shows `--`.
 ## Usage
 
 1. Jailbreak the console as usual (tested with kstuff-lite).
-2. Load `ps5-hud-overlay-<version>.elf` with your payload manager in either of these ways:
+2. Load `ps5-hud-dualsense-overlay-<version>.elf` with your payload manager in either of these ways:
    - **Web portal:** from a PC or phone on the same network, open the payload manager's portal using
      the console's local IP and upload the `.elf`.
    - **USB:** copy the `.elf` to a USB drive, connect it to the console and launch it from the payload

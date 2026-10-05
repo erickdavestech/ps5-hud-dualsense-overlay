@@ -9,7 +9,7 @@
 The remaining documents in this folder come from
 [Common FPS for PS5](https://github.com/porhe911/Common-FPS-for-PS5) by porhe911 and are kept unchanged
 for reference and attribution. They describe the original FPS overlay and its development, not
-ps5-hud-overlay.
+PS5 HUD and DualSense Controller Overlay.
 
 - `UPSTREAM_README_CommonFPS.md` — the upstream README.
 - `upstream-releases/` — the upstream release notes.

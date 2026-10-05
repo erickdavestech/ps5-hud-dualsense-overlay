@@ -1,4 +1,4 @@
-# ps5-hud-overlay - controller artwork pipeline
+# ps5-hud-dualsense-overlay - controller artwork pipeline
 # Copyright (C) 2026 erickdavestech
 # SPDX-License-Identifier: GPL-3.0-or-later
 

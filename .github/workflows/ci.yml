@@ -82,7 +82,7 @@ jobs:
       - name: Upload build
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         with:
-          name: ps5-hud-overlay-${{ github.sha }}
+          name: ps5-hud-dualsense-overlay-${{ github.sha }}
           path: |
             dist/Common_FPS_PS5_v1.2.1.elf
             dist/Common_FPS_PS5_etaHEN_v1.2.1.plugin

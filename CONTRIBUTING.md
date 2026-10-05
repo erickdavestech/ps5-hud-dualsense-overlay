@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in ps5-hud-overlay. Bug reports, tests on other consoles and firmware
+Thanks for your interest in PS5 HUD and DualSense Controller Overlay. Bug reports, tests on other consoles and firmware
 versions, and pull requests are all welcome.
 
 By participating you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).

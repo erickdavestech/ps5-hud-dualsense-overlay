@@ -1,5 +1,5 @@
 {
-  "project": "ps5-hud-overlay",
+  "project": "ps5-hud-dualsense-overlay",
   "version": "1.0.0",
   "license": "GPL-3.0-or-later",
   "ps5_payload_sdk": {

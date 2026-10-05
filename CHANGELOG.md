@@ -8,7 +8,7 @@ All notable changes to this project are documented in this file. The format foll
 
 ## [1.0.0] - 2026-10-04
 
-First release of ps5-hud-overlay. Based on ps5-dualsense-overlay v1.0.1, which is based on Common FPS
+First release of PS5 HUD and DualSense Controller Overlay (`ps5-hud-dualsense-overlay`). Based on ps5-dualsense-overlay v1.0.1, which is based on Common FPS
 for PS5 v1.2.1 by porhe911 with the SimpleFPS patch by khalifa007.
 
 ### Added
@@ -66,5 +66,5 @@ for PS5 v1.2.1 by porhe911 with the SimpleFPS patch by khalifa007.
 - Power values follow the system's refresh of the rails, about every 5 seconds.
 - The PS button cannot be read, and the Mute button is disabled (inherited from ps5-dualsense-overlay).
 
-[Unreleased]: https://github.com/erickdavestech/ps5-hud-overlay/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/erickdavestech/ps5-hud-overlay/releases/tag/v1.0.0
+[Unreleased]: https://github.com/erickdavestech/ps5-hud-dualsense-overlay/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/erickdavestech/ps5-hud-dualsense-overlay/releases/tag/v1.0.0

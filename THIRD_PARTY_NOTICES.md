@@ -62,7 +62,7 @@ Third-party files always retain their upstream notices and licenses.
 
 ---
 
-# Additional notices for this derivative (ps5-hud-overlay)
+# Additional notices for this derivative (PS5 HUD and DualSense Controller Overlay)
 
 This repository is a modified version of Common FPS for PS5, by way of ps5-dualsense-overlay (see
 `CREDITS.md`). The notices above are retained verbatim from the upstream project. The following apply

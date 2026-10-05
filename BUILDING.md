@@ -31,7 +31,7 @@ Outputs in `dist/`:
 
 | File | Description | Published as |
 |---|---|---|
-| `Common_FPS_PS5_v1.2.1.elf` | Controller payload with the renderer embedded | `ps5-hud-overlay-<version>.elf` |
+| `Common_FPS_PS5_v1.2.1.elf` | Controller payload with the renderer embedded | `ps5-hud-dualsense-overlay-<version>.elf` |
 | `Common_FPS_PS5_etaHEN_v1.2.1.plugin` | The same payload wrapped as an etaHEN plugin (`PHUD00001`) | not published |
 | `Common_FPS_ShellUI_v1.2.1.elf` | The renderer alone (already embedded in the controller) | not published |
 | `SHA256SUMS.txt` | Checksums of the three files | — |

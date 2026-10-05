@@ -1,6 +1,6 @@
 # Credits
 
-ps5-hud-overlay is a derivative work. It claims no ownership over the upstream code or the artwork it
+PS5 HUD and DualSense Controller Overlay is a derivative work. It claims no ownership over the upstream code or the artwork it
 builds on. Every source file keeps its original copyright header and SPDX identifier, and each
 modified file names who modified it.
 

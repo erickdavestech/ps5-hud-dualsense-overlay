@@ -1,4 +1,4 @@
-# ps5-hud-overlay - release artifact verifier
+# ps5-hud-dualsense-overlay - release artifact verifier
 # Copyright (C) 2026 erickdavestech
 # SPDX-License-Identifier: GPL-3.0-or-later
 import pathlib
